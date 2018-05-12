@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25595
     wikipedia: http://en.wikipedia.org/wiki/Charles_Carleton_Coffin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34843#The-Boys-of-61or-Four-Years-of-Fighting-Personal-Observations-with-the-Army-and-Navy
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
